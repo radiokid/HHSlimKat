@@ -466,7 +466,7 @@
   <project path="external/qrngd" name="CyanogenMod/android_external_qrngd" remote="github" revision="cm-11.0" />
   
   <!-- hammerhead blobs -->
-  <!-- project path="vendor/lge" name="SlimRoms/proprietary_vendor_lge" remote="github" revision="kk4.4" -->
-  <!-- project path="device/lge/hammerhead" name="SlimRoms/device_lge_hammerhead" remote="github" revision="kk4.4" -->
-  <!-- project path="kernel/lge/hammerhead" name="SlimRoms/kernel_lge_hammerhead" remote="github" revision="kk4.4" -->
+  <project path="vendor/lge" name="SlimRoms/proprietary_vendor_lge" remote="github" revision="kk4.4" />
+  <project path="device/lge/hammerhead" name="SlimRoms/device_lge_hammerhead" remote="github" revision="kk4.4" />
+  <project path="kernel/lge/hammerhead" name="SlimRoms/kernel_lge_hammerhead" remote="github" revision="kk4.4" />
 </manifest>
